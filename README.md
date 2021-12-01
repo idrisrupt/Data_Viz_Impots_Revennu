@@ -1,7 +1,5 @@
 # Data_Viz_Impots_Revennu
 
-<video src='DemoDashboard.mp4' width=180/>
-
 ## Aquisition de Données :
 
 - Récuperation des tables de chaque années sur l'OpenData
